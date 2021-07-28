@@ -175,5 +175,5 @@ Click "Details" below for a hint:
 Hint: use `typeof` 
 </details>
 
-## Hungry for More?
+## Still Hungry for More? What are you?! An alligator?!
 Get started on the afternoon lab!

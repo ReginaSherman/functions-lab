@@ -176,4 +176,4 @@ Hint: use `typeof`
 </details>
 
 ## Still Hungry for More? What are you?! An alligator?!
-Get started on the afternoon lab!
+Get started on the [homework](https://git.generalassemb.ly/wc-seir-726/functions-scope-hw)!
